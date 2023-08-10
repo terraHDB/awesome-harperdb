@@ -1,6 +1,6 @@
 [<img src="awesome-harperdb-logo.png" align="right" width="200">](https://www.harperdb.io/)
 
-# Awesome HarperDB [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# Awesome HarperDB [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 A curated list of awesome HarperDB resources with blogs, tutorials and more to provide instruction, inspire use cases and improve ease of use!
 
 Feel free to improve this list by [contributing](CONTRIBUTING.md)!
