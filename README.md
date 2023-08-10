@@ -1,12 +1,13 @@
 [<img src="awesome-harperdb-logo.png" align="right" width="200">](https://www.harperdb.io/)
 
 # Awesome HarperDB [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-A curated list of awesome HarperDB resources with awesome blogs, tutorials and more!
+A curated list of awesome HarperDB resources with blogs, tutorials and more to provide instruction, inspire use cases and improve ease of use!
 
 Feel free to improve this list by [contributing](CONTRIBUTING.md)!
 
 ## Contents
 
+- [Introduction](#introduction)
 - [Resources](#resources)
   - [Documentation](#documentation)
   - [Articles](#articles)
@@ -14,6 +15,10 @@ Feel free to improve this list by [contributing](CONTRIBUTING.md)!
   - [Tutorials](#tutorials)
   - [Tools](#tools)
 - [Applications](#applications)
+
+## Introduction
+HarperDB is a globally-distributed edge application platform. It reduces complexity, increases performance, and lowers costs by combining user-defined applications, a high-performance database, and an enterprise-grade message queue into a single package. The platform offers unlimited horizontal scale at the click of a button, and synchronizes data across all the nodes in a cluster in milliseconds. HarperDB simplifies the process of delivering applications and the data that drives them to the edge, which dramatically improves both the user experience and total cost of ownership for large-scale applications. Deploying HarperDB on global infrastructure enables a CDN-like solution for enterprise data and applications.
+
 
 ## Resources
 ### Documentation
