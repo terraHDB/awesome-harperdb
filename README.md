@@ -18,7 +18,6 @@ Feel free to improve this list by [contributing](CONTRIBUTING.md)!
 ## Introduction
 HarperDB is a globally-distributed edge application platform. It reduces complexity, increases performance, and lowers costs by combining user-defined applications, a high-performance database, and an enterprise-grade message queue into a single package. The platform offers unlimited horizontal scale at the click of a button, and synchronizes data across all the nodes in a cluster in milliseconds. HarperDB simplifies the process of delivering applications and the data that drives them to the edge, which dramatically improves both the user experience and total cost of ownership for large-scale applications. Deploying HarperDB on global infrastructure enables a CDN-like solution for enterprise data and applications.
 
-
 ## Resources
 ### Documentation
   - [HarperDB Docs](https://docs.harperdb.io/docs/) - The knowledge and instruction center for HarperDB documentation .
@@ -26,7 +25,6 @@ HarperDB is a globally-distributed edge application platform. It reduces complex
   - [HarperDB Example Projects](https://docs.harperdb.io/docs/custom-functions/example-projects) - How other people are using HarperDB Custom Functions.
 
 ### Articles
-
 - [HarperDB Reduces Complexity in Deploying Edge Computing Without Sacrificing Scalability](https://techbullion.com/harperdb-reduces-complexity-in-deploying-edge-computing-without-sacrificing-scalability/) - Edge computing made possible by HarperDB's three layer product: application, database and distribution.
 - [Introducing HarperDB 4.1: Faster, More Efficient, & More Control](https://www.harperdb.io/post/introducing-harperdb-4-1-faster-more-efficient-more-control) - What's new in HarperDB 4.1.
 - [MEAN Stack Alternative: More Power with Less Stack](https://www.harperdb.io/post/mean-stack-alternative) - What does it mean to collapse your tech stack?
@@ -35,13 +33,11 @@ HarperDB is a globally-distributed edge application platform. It reduces complex
 - [8 Ways to Improve Application Performance](https://www.harperdb.io/post/8-ways-to-improve-application-performance) - Learn ways to improve your performance.
 
 ### Talks
-
 - [Building a Database Written in Node.js from the Ground Up](https://www.youtube.com/watch?v=0mEOgbOkteI) - Co-founder and CEO, Stephen Goldberg, talks about building HarperDB.
 - [Grocery store recommendation systems with HarperDB and Web ML - Made with TensorFlow.js](https://www.youtube.com/watch?v=JQksipdQiGI) - Freakin crazy awesome ML model using TensorFlow.js and HarperDB replication and custom functions that recommends grocery products .
 - [5G Edge Lightning Talks](https://events.verizon5glabs.com/5gedgelightingtalksmay) - Inspiring Lightning Talks, one featuring HarperDB's Jaxon Repp talking about our journey to the edge.
 
 ### Tutorials
-
 - [Exporting HarperDB Metrics to Prometheus](https://www.harperdb.io/post/exporting-harperdb-metrics-to-prometheus) - How to export HarperDB metrics to Prometheus, utilizing the Push Gateway to periodically update metrics.
 - [Use HarperDB + ngrok to enable Global Availability](https://www.harperdb.io/post/use-harperdb-ngrok-to-enable-global-availability) - How to get a fullstack HarperDB (api routes + database) project up and running, and use ngrok to painlessly make it available via https to anyone with internet access.
 - [Migrate an App from MongoDB to HarperDB](https://www.harperdb.io/post/migrate-an-app-from-mongodb-to-harperdb) - The migration process from a MongoDB database to a HarperDB instance using TypeScript.
@@ -50,7 +46,6 @@ HarperDB is a globally-distributed edge application platform. It reduces complex
 - [Global Multi-Cloud Terraform Deployment for Low-Latency Applications Worldwide](https://medium.com/geekculture/global-multi-cloud-terraform-deployment-for-low-latency-applications-worldwide-b02c65c859ca) - Exciting tutorial demonstrating multi-cloud deployment using HarperDB and Terraform.
 
 ### Tools
-
 - [HarperDB Studio](https://studio.harperdb.io/sign-up) - HarperDB Studio is the web-based GUI for HarperDB. Studio enables you to administer, navigate, and monitor all of your HarperDB instances in a simple, user friendly interface without any knowledge of the underlying HarperDB API.
 - [HarperDB Add-Ons GitHub](https://github.com/HarperDB-Add-Ons) - Awesome collection of add-ons created for use with HarperDB.
 - [HarperDB.NET.Client](https://www.nuget.org/packages/HarperDB.NET.Client/1.1.0) - A Dot Net Core client to execute operations against Harper DB.
@@ -64,9 +59,7 @@ HarperDB is a globally-distributed edge application platform. It reduces complex
 - [HarperDB Flutter SDK](https://pub.dev/packages/harperdb) - A package for connecting Flutter with HarperDB.
 - [Go SDK for HarperDB](https://pkg.go.dev/github.com/HarperDB-Add-Ons/sdk-go) - Go SDK for HarperDB.
 
-
 ## Applications
-
 These are just a few awesome examples of open-source applications that have HarperDB somewhere in their stack:
 
 - [Fitness App that sends daily emails](https://www.youtube.com/watch?v=KMkmA4i2FQc) - Awesome workout app that saves your favorite YouTube workout videos and sends daily email reminders.
@@ -78,6 +71,4 @@ These are just a few awesome examples of open-source applications that have Harp
 - [Rest API w/ HarperDB & FastifyJS](https://hackernoon.com/how-to-create-a-restful-api-with-harperdb-and-fastifyjs-bw15343i)- Use Node.js, Fastify and HarperDB to build a course management system.
 - [HarperDB + Hashnode Hackathon Winners](https://townhall.hashnode.com/harperdb-hashnode-hackathon-winners) - 2021 #HarperDBHackathon winners.
 
-
 To the extent possible under law, [Terra Roush](https://github.com/terraHDB)  has waived all copyright and related or neighboring rights to this work.
-
