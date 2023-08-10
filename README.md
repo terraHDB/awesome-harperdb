@@ -20,9 +20,9 @@ HarperDB is a globally-distributed edge application platform. It reduces complex
 
 ## Resources
 ### Documentation
-  - [HarperDB Docs](https://docs.harperdb.io/docs/) - The knowledge and instruction center for HarperDB documentation .
-  - [HarperDB API Docs](https://api.harperdb.io/) - Detailed looks at specific HarperDB Operations API requests with customizable example code.
-  - [HarperDB Example Projects](https://docs.harperdb.io/docs/custom-functions/example-projects) - How other people are using HarperDB Custom Functions.
+- [HarperDB Docs](https://docs.harperdb.io/docs/) - The knowledge and instruction center for HarperDB documentation .
+- [HarperDB API Docs](https://api.harperdb.io/) - Detailed looks at specific HarperDB Operations API requests with customizable example code.
+- [HarperDB Example Projects](https://docs.harperdb.io/docs/custom-functions/example-projects) - How other people are using HarperDB Custom Functions.
 
 ### Articles
 - [HarperDB Reduces Complexity in Deploying Edge Computing Without Sacrificing Scalability](https://techbullion.com/harperdb-reduces-complexity-in-deploying-edge-computing-without-sacrificing-scalability/) - Edge computing made possible by HarperDB's three layer product: application, database and distribution.
@@ -68,7 +68,7 @@ These are just a few awesome examples of open-source applications that have Harp
 - [Python App](https://bhavaniravi.medium.com/build-a-python-app-with-harperdb-ee2ee4231039) - Build a Book Journal app with HarperDB, Python and Flask.
 - [Full Stack Productivity Timer App](https://www.freecodecamp.org/news/nextjs-and-harperdb-tutorial-build-a-full-stack-app/) - Awesome and simple full-stack task timer utilizing HarperDB.
 - [Fast API + React App With HarperDB](https://medium.com/@dennisivy/fast-api-react-crud-app-with-harperdb-5834af537c23) - CRUD app using Fast API, React.js, and HarperDB.
-- [Rest API w/ HarperDB & FastifyJS](https://hackernoon.com/how-to-create-a-restful-api-with-harperdb-and-fastifyjs-bw15343i)- Use Node.js, Fastify and HarperDB to build a course management system.
+- [Rest API w/ HarperDB & FastifyJS](https://hackernoon.com/how-to-create-a-restful-api-with-harperdb-and-fastifyjs-bw15343i) - Use Node.js, Fastify and HarperDB to build a course management system.
 - [HarperDB + Hashnode Hackathon Winners](https://townhall.hashnode.com/harperdb-hashnode-hackathon-winners) - 2021 #HarperDBHackathon winners.
 
 To the extent possible under law, [Terra Roush](https://github.com/terraHDB)  has waived all copyright and related or neighboring rights to this work.
