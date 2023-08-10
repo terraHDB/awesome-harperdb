@@ -6,7 +6,6 @@ A curated list of awesome HarperDB resources with blogs, tutorials and more to p
 Feel free to improve this list by [contributing](CONTRIBUTING.md)!
 
 ## Contents
-
 - [Introduction](#introduction)
 - [Resources](#resources)
   - [Documentation](#documentation)
