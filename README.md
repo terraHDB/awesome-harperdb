@@ -75,9 +75,5 @@ These are just a few awesome examples of open-source applications that have Harp
 - [HarperDB + Hashnode Hackathon Winners](https://townhall.hashnode.com/harperdb-hashnode-hackathon-winners) - 2021 #HarperDBHackathon winners.
 
 
-## License
-
-[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
-
 To the extent possible under law, [Terra Roush](https://github.com/terraHDB)  has waived all copyright and related or neighboring rights to this work.
 
