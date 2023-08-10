@@ -1,5 +1,4 @@
-# Contribution Guidelines
-
+# Contributing
 Do you want to contribute to Awesome HarperDB? Excellent!
 
 Please follow these guidelines:
