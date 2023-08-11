@@ -3,7 +3,7 @@
 # Awesome HarperDB [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 A curated list of awesome HarperDB resources with blogs, tutorials and more to provide instruction, inspire use cases and improve ease of use!
 
-Feel free to improve this list by [contributing](CONTRIBUTING.md)!
+Feel free to improve this list by [contributing](CONTRIBUTING.md).
 
 ## Contents
 - [Introduction](#introduction)
