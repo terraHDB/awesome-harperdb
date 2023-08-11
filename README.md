@@ -20,7 +20,7 @@ HarperDB is a globally-distributed edge application platform. It reduces complex
 
 ## Resources
 ### Documentation
-- [HarperDB Docs](https://docs.harperdb.io/docs/) - The knowledge and instruction center for HarperDB documentation .
+- [HarperDB Docs](https://docs.harperdb.io/docs/) - The knowledge and instruction center for HarperDB documentation.
 - [HarperDB API Docs](https://api.harperdb.io/) - Detailed looks at specific HarperDB Operations API requests with customizable example code.
 - [HarperDB Example Projects](https://docs.harperdb.io/docs/custom-functions/example-projects) - How other people are using HarperDB Custom Functions.
 
